@@ -100,3 +100,4 @@ env.py
 
 # Static Files
 staticfiles
+__pycache__/
